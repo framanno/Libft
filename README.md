@@ -8,6 +8,15 @@ Other important resources I’ve used for this project and throughout my journey
 - https://42-cursus.gitbook.io/guide
 - https://www.youtube.com/@onaecO
 - https://www.youtube.com/@cs50
+Specific resources for libft:
+- https://github.com/lucAsC87/libftquickman/blob/main/libft's%20friendly%2C%20quick%20%26%20dirty%20man.md
+- https://makefiletutorial.com/
+- https://42-cursus.gitbook.io/guide/rank-00/libft
+- https://www.youtube.com/playlist?list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl
+- https://www.youtube.com/watch?v=X8h4dq9Hzq8&t=2304s
+- https://www.youtube.com/watch?v=mkZYMKwKkvI
+Tester for libft project:
+- https://github.com/FranFrau/Supreme-Tester-Libft
 
 Good luck!
 					
