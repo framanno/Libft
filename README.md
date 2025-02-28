@@ -1,5 +1,5 @@
 # Libft
-Repository containing the files for the libft project at 42 School
+Repository containing files for the libft project at 42 School
 
 					MY PERSPECTIVE
 Completing this first project at 42 was definitely not easy for me. That’s why I highly recommend fully embracing the 42 philosophy: peer-to-peer is essential. Don’t let shyness hold you back, and don’t only talk to  people you met during the piscine. If you’re struggling, don’t hesitate to ask for help. On the other hand, if you’re ahead, don’t hesitate to assist those who are having a harder time. Hopefully, your good deeds will be rewarded.
